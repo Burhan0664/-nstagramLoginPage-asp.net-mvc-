@@ -2501,11 +2501,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\asp.net\\Web\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\burha\\source\\repos\\asp.net\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\asp.net\\Web\\Web.csproj",
+      "projectPath": "C:\\Users\\burha\\source\\repos\\asp.net\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\burha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\burha\\OneDrive\\Masaüstü\\coder\\asp.net\\Web\\obj\\",
+      "outputPath": "C:\\Users\\burha\\source\\repos\\asp.net\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\burha\\AppData\\Roaming\\NuGet\\NuGet.Config",
